@@ -1,2 +1,2 @@
-# GM
-Basic Java Development 
+# Muthu Pandi GM
+My personal Java Development repo
